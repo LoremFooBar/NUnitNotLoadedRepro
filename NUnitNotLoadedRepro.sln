@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{BC54EC02-DCC0-4DAE-824C-90E9DFBA4337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.NotRun", "Tests.NotRun\Tests.NotRun.csproj", "{FAB67176-C06D-49AB-A218-183C422971AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.DoRun", "Tests.DoRun\Tests.DoRun.csproj", "{1EA82F09-FB28-42D3-BF4C-B883F1A240D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC54EC02-DCC0-4DAE-824C-90E9DFBA4337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC54EC02-DCC0-4DAE-824C-90E9DFBA4337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC54EC02-DCC0-4DAE-824C-90E9DFBA4337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC54EC02-DCC0-4DAE-824C-90E9DFBA4337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB67176-C06D-49AB-A218-183C422971AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB67176-C06D-49AB-A218-183C422971AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB67176-C06D-49AB-A218-183C422971AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB67176-C06D-49AB-A218-183C422971AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA82F09-FB28-42D3-BF4C-B883F1A240D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA82F09-FB28-42D3-BF4C-B883F1A240D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA82F09-FB28-42D3-BF4C-B883F1A240D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA82F09-FB28-42D3-BF4C-B883F1A240D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
