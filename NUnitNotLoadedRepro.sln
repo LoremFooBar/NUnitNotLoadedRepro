@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.NotRun", "Tests.NotRu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.DoRun", "Tests.DoRun\Tests.DoRun.csproj", "{1EA82F09-FB28-42D3-BF4C-B883F1A240D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Workaround", "Tests.Workaround\Tests.Workaround.csproj", "{7193AA3B-5716-429E-AFAB-CA69679F2082}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{1EA82F09-FB28-42D3-BF4C-B883F1A240D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EA82F09-FB28-42D3-BF4C-B883F1A240D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EA82F09-FB28-42D3-BF4C-B883F1A240D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7193AA3B-5716-429E-AFAB-CA69679F2082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7193AA3B-5716-429E-AFAB-CA69679F2082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7193AA3B-5716-429E-AFAB-CA69679F2082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7193AA3B-5716-429E-AFAB-CA69679F2082}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
